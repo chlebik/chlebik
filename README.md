@@ -7,6 +7,6 @@ Pinned repositories are the ones specifically recommended for everybody, as they
 
 - 🔭 I’m currently working on **improving and marketing my project**
 - 🌱 I’m currently learning **low-level programming and concepts**
-- 💬 Ask me about **everything You I could be of help. I'll try!**
+- 💬 Ask me about **everything I could be of help. I'll try!**
 - ⚡ Fun fact: **Chlebik** means *small bread* in Polish. 
 - 📫 How to reach me: just see social section of **http://baremetaldev.com**
