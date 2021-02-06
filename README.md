@@ -1,20 +1,12 @@
-### Hi there 👋
+### Howdy! 👋
 
-It's really nice to have a space to write a little bit more here. Simple *status like* motto under the picture is not enough. For the time being let's start small and see where it goes.
+It's really nice to have a space to write a little bit more here. Simple *status like* motto under the picture is not enough. This profile is quite old - I've been using it to access contents of other's repositories, give stars and such. However, starting from *January 2021*, it became an official representation of my long-timed journey - http://baremetaldev.com. It is my attempt to embody the idea of *Mastery path*, that was presented by **Leonard George** in his book *'Mastery'*. I'm learning (and writing about it) low-level programming, OS concepts and everything other that is related to *how it all works.*
 
-- 🔭 I’m currently working on **something very exciting**
+Pinned repositories are the ones specifically recommended for everybody, as they incorporate the knowledge I've gained along the way, and want to share with others. So far there are three of them - let's hope there will be more.
+
+
+- 🔭 I’m currently working on **improving and marketing my project**
 - 🌱 I’m currently learning **low-level programming and concepts**
-
-<!--
-**chlebik/chlebik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **everything You I could be of help. I'll try!**
+- ⚡ Fun fact: **Chlebik** means *small bread* in Polish. 
+- 📫 How to reach me: just see social section of **http://baremetaldev.com**
