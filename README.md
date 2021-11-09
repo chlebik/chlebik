@@ -11,4 +11,4 @@ Pinned repositories are the ones specifically recommended for everybody, as they
 - ⚡ Fun fact: **Chlebik** means *small bread* in Polish. 
 - 📫 How to reach me: just see social section of **http://baremetaldev.com** or checkout the links on the left.
 
-[![Chlebik GitHub stats](https://github-readme-stats.vercel.app/api?username=chlebik&count_private=true)](https://github.com/chlebik/github-readme-stats)
+[![Chlebik GitHub stats](https://github-readme-stats.vercel.app/api?username=chlebik&count_private=true&show_icons=true&theme=dark)](https://github.com/chlebik/github-readme-stats)
